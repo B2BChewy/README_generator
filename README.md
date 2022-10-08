@@ -5,9 +5,9 @@
 <br></br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/B2BChewy/READMEgenerator" />
-    <img src="https://img.shields.io/github/issues/B2BChewy/READMEgenerator" />
-    <img src="https://img.shields.io/github/last-commit/B2BChewy/READMEgenerator" >
+    <img src="https://img.shields.io/github/repo-size/B2BChewy/README_generator" />
+    <img src="https://img.shields.io/github/issues/B2BChewy/README_generator" />
+    <img src="https://img.shields.io/github/last-commit/B2BChewy/README_generator" >
     </a>
 </p>
   
