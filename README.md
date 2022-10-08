@@ -1,7 +1,7 @@
 <h1 align='center'>READMEgenerator</h1>
 
 ### By likica * [Email me](mailto:codefin9@hotmail.com) * 
-  * [Walkthrough-video Link](https://drive.google.com/) 
+  * [Walkthrough-video Link](https://drive.google.co/) 
 <br></br>
 
 <p align="center">
